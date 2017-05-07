@@ -8,7 +8,7 @@
 int main(int argc,char * args[]){
 
 	if(argc != 4){
-    printf("Lutfen Belirtilen Parametreleri Verin");
+   		printf("Lutfen Belirtilen Parametreleri Verin");
 		return -1;
 	}
 	int fp,i,countLetter=0;
