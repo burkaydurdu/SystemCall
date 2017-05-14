@@ -36,7 +36,7 @@ Bufferda bekletilen veriler 4 yolla hedefe ulaşır.
   out: !!!---***  
 ```
 
-** NOT **
+**NOT**
 >Bütün sistem çağrilari geri birşey döndürür fakat **exit()** geriye birşey döndürmez.
 
 ## Open
