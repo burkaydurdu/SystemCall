@@ -85,7 +85,7 @@ Bufferda bekletilen veriler 4 yolla hedefe ulaşır.
 
    ## CLOSE
 
-   #### close(fd)
+   #### int close(fd)
 
    fd serbest bırakır. Geçerli bir fd değilse -1 döndürür.
 
